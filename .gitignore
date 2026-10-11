@@ -1,0 +1,11 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+.idea/
+*.iml
+.DS_Store
+
+# Firebase credentials (never commit)
+src/main/resources/firebase-service-account.json
